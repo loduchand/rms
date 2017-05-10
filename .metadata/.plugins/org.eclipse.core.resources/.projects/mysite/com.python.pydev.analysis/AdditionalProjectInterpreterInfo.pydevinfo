@@ -1,0 +1,53 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/piyushjoshi/rms/abcd/.metadata/.plugins/org.eclipse.core.resources/.projects/mysite/com.python.pydev.analysis/v2_indexcache
+mysite.__init__|1493733915000000000|/home/piyushjoshi/rms/abcd/mysite/mysite/__init__.py
+polls.admin|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/admin.py
+mysite.urls|1493791254000000000|/home/piyushjoshi/rms/abcd/mysite/mysite/urls.py
+mysite.wsgi|1493733915000000000|/home/piyushjoshi/rms/abcd/mysite/mysite/wsgi.py
+polls.tests|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/tests.py
+polls.models|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/models.py
+polls.views|1493790883000000000|/home/piyushjoshi/rms/abcd/mysite/polls/views.py
+polls.apps|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/apps.py
+manage|1493733915000000000|/home/piyushjoshi/rms/abcd/mysite/manage.py
+polls.__init__|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/__init__.py
+mysite.settings|1493790235000000000|/home/piyushjoshi/rms/abcd/mysite/mysite/settings.py
+polls.migrations.__init__|1493734012000000000|/home/piyushjoshi/rms/abcd/mysite/polls/migrations/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=mysite.urls
+2=mysite.wsgi
+6=PollsConfig
+3=polls.views
+1=mysite.settings
+4=polls.apps
+-- END DICTIONARY
+-- START TREE 1
+21
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+cre|1|createFooter!26@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ind|1|index!26@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+pol|1|PollsConfig!33@
+rms|1|rmsentry!26@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!43@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!6&35@
+-- END TREE

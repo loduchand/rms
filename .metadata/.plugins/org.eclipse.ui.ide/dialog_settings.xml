@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/views.py&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/index.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/login.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/base_visitor.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/register.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/urls.py&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/detail.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/models.py&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/create_song.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/form_template.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/base.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/website/settings.py&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/Viberr-master/music/templates/music/create_album.html&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="384" key="DIALOG_X_ORIGIN"/>
+			<item value="20" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

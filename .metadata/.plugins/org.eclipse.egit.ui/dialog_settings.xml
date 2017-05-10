@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="http://piyushjoshi@bitbucket.ameyo.com:7990/scm/dev/rms.git"/>
+		<item value="ssh://piyushjoshi@bitbucket.ameyo.com:7999/dev/rms.git"/>
+		<item value="ssh://git@bitbucket.ameyo.com:7999/dev/rms.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.ameyo.com"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+</section>
