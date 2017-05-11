@@ -1,0 +1,31 @@
+{% extends 'base.html' %} {% block body %}
+<div class="row">
+	<div class="col-xs-1"></div>
+	<div class="col-xs-10">
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Id</th>
+							<th>Job Name</th>
+							<th>Product</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% if buildjobs%} {% for jobs in buildjobs %}
+						<tr>
+							<td>{{ jobs.id }}</td>
+							<td>{{ jobs.job_name }}</td>
+							<td>{{ jobs.product_name }}</td>
+						</tr>
+						{% endfor %} {% endif %}
+
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+	</div>
+</div>
+{% endblock %}
