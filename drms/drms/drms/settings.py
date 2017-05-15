@@ -55,7 +55,7 @@ ROOT_URLCONF = 'drms.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(SETTINGS_PATH, 'templates'),os.path.join(SETTINGS_PATH, 'css')],
+        'DIRS': [os.path.join(SETTINGS_PATH, 'templates'),os.path.join(SETTINGS_PATH, 'static')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

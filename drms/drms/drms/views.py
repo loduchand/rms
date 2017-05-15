@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.template.context_processors import request
 from jenkinsapi.jenkins import Jenkins
-from .models import BuildJob
+from .models import BuildJobInfo
 from django.core.paginator import PageNotAnInteger, EmptyPage, Paginator
 
 
@@ -33,7 +33,7 @@ class BuildJobsDetails(object):
 
 
 def index(request):
-    jobs = BuildJob.objects.all()
+    jobs = BuildJobInfo.objects.distinct('product_name')
     print jobs
     paginator = Paginator(jobs,7)
     pageNumber = request.GET.get('page')
